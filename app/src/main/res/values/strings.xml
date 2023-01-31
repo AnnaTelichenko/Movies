@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="poster_of_movie">Movie poster</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="size_of_plas">60dp</string>
+    <string name="add_to_favourite">Added to favorites</string>
+    <string name="remove_from_favourite">Remove from favourite</string>
+    <string name="item_main">Main page</string>
+    <string name="item_favourite">Favorites</string>
+    <string name="movie_title">Movie title: </string>
+    <string name="original_movie_title">Original movie title: </string>
+    <string name="rating">Rating: </string>
+    <string name="release_date">Release date: </string>
+    <string name="description">Description: </string>
+
+</resources>
